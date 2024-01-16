@@ -1,0 +1,5 @@
+﻿  CourseSysSoft2.0.cpp
+D:\private\prinew\lrn\syssoft\projects\CourseSysSoft2.0\CourseSysSoft2.0\CourseSysSoft2.0.cpp(194,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+D:\private\prinew\lrn\syssoft\projects\CourseSysSoft2.0\CourseSysSoft2.0\CourseSysSoft2.0.cpp(250,19): warning C4101: hookstruct: неиспользованная локальная переменная
+D:\private\prinew\lrn\syssoft\projects\CourseSysSoft2.0\CourseSysSoft2.0\CourseSysSoft2.0.cpp(280): warning C4715: LLMouseProc: значение возвращается не при всех путях выполнения
+  CourseSysSoft2.0.vcxproj -> D:\private\prinew\lrn\syssoft\projects\CourseSysSoft2.0\x64\Debug\CourseSysSoft2.0.exe
